@@ -1,0 +1,12 @@
+{
+  "item.fromanotherworld.crawler_spawn_egg": "Crawler Spawn Egg",
+  "item.fromanotherworld.juliette_thing_spawn_egg": "Juliette Thing Spawn Egg",
+  "item.fromanotherworld.assimilation_liquid": "Assimilation Liquid",
+  "item.fromanotherworld.impostor_detector" : "Suspicious Impersonator Scanner",
+  "item.fromanotherworld.dogbeast_spawn_egg": "DogBeast Spawn Egg",
+
+  "entity.fromanotherworld.crawler": "Crawler",
+  "entity.fromanotherworld.chest_spitter": "Chest Spitter",
+  "entity.fromanotherworld.juliette_thing": "Juliette Thing",
+  "entity.fromanotherworld.dogbeast": "DogBeast"
+}
